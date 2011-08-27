@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='Bubbles'>
+
+  <inherits name='com.google.gwt.user.User' />
+  <inherits name='com.google.gwt.user.theme.standard.Standard' />
+  <inherits name='fr.dboissin.util.gwt.html5.Html5' />
+
+  <entry-point class='fr.dboissin.util.samples.bubbles.client.Bubbles' />
+
+  <source path='client' />
+
+</module>

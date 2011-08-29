@@ -1,5 +1,9 @@
 /** Add css rules here for your application. */
 
+@font-face{
+    font-family : "superpoint";
+    src : url('SUPERPOI_R.TTF');
+}
 
 /** Example rules used by the template application (remove for your app) */
 h1 {
